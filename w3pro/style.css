@@ -1,0 +1,82 @@
+.body {
+background-color: rgb(202, 224, 218);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin-left: 22px;
+
+}
+.image {
+
+height: 300px;
+width: 300px;
+float: right;
+margin-bottom: 500px;
+margin-right:20px;
+border-radius: 1cap;
+box-shadow: 15px 15px rgb(223, 221, 221);
+border:rgb(202, 201, 201);
+border-width:4px;
+margin: 5px;
+}
+.start-action{
+
+color:white;
+font-size: 18px;
+text-decoration: none;
+border-width: 30px;
+border-radius: 1cap;
+border:none;
+background-color:rgb(2, 148, 53);
+margin:20px;
+padding:20px;
+opacity:0.8;
+padding-left:29px;
+padding-right: 29px;
+}
+.start-action:hover{
+
+background-color:rgb(2, 148, 53);
+opacity:0.9;
+}
+.but1 {
+color: rgba(7, 170, 29, 0.726); 
+border: none; 
+background-color: transparent;
+ font-size: large;
+}
+.but1:hover {
+
+text-decoration: underline rgb(2, 148, 53);
+
+}
+.but1:active {
+
+text-decoration: underline rgb(2, 148, 53);
+
+}
+#in1 {
+ border: none;
+background-color: transparent;
+color: rgb(2, 148, 53);
+font-size: larger;
+
+
+}
+#in1:hover {
+text-decoration: underline rgb(2, 148, 53);
+color:rgb(2, 148, 53);
+opacity: 0.7;
+}
+#in2{
+ border: none;
+background-color: transparent;
+color: rgb(2, 148, 53);
+font-size: larger;
+
+}
+
+#in2:hover {
+text-decoration: underline rgb(2, 148, 53);
+color:rgb(2, 148, 53) ;
+opacity:0.7;
+
+}
